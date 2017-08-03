@@ -10,6 +10,8 @@ students and the general public alike. The Takoradi Online Hostel Booking System
 platform to organize and connect the fragmented marketplace of students and hostel owners or managers into a searchable database
 that is consumer-focused and easy-to-use.
 
+Project on test at: http://tardihostelbook.ga/
+
 
 # Below are snapshots: 
 ![alt text](snap1.jpeg "Description goes here")
