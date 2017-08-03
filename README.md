@@ -1,5 +1,7 @@
 # Tardi-Hostel-Book
-The Takoradi Hostel Booking System ![alt text](logo.jeg "Description goes here")
+![alt text](logo.png "Description goes here")
+
+The Takoradi Hostel Booking System 
 
 The Takoradi Online Hostel Booking System is an online booking system developed to help customers find and rent affordable 
 accommodation that suits their needs. We are offering our customers a well-uniformed and a trouble-free way to find a hostel 
