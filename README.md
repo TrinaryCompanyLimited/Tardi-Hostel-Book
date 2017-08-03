@@ -10,8 +10,8 @@ that is consumer-focused and easy-to-use.
 
 
 # Below are snapshots: 
-![alt text](snap.jpg "Description goes here")
+![alt text](snap1.jpeg "Description goes here")
 
-![alt text](snap1.jpg "Description goes here")
+![alt text](snap2.jpeg "Description goes here")
 
-![alt text](snap2.jpg "Description goes here")
+![alt text](snap3.jpeg "Description goes here")
